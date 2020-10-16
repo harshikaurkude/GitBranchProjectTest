@@ -1,5 +1,5 @@
 
-Change1 :Bug fix 1 .................
+Change1 :Bug fix 1 
 
 Change 2: File1 updated for change2 by teammate on master branch
 
@@ -9,4 +9,6 @@ Change4 :Bug fix 1 !
 Change5 :Bug fix 2 for branch bug2
 
 Change 6:MOdified to test remote repo work
+
+Chnage 7:Edited this file by teammate for checking conflict scenario on remote master using rebase solution
 

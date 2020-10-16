@@ -1,5 +1,10 @@
+
 Change1 :Bug fix 1 .................
 
 Change 2: File1 updated for change2 by teammate on master branch
 
 Change3 :Testing three way  merge
+Change4 :Bug fix 1 !
+
+Change5 :Bug fix 2 for branch bug2
+

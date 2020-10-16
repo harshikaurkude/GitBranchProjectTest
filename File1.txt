@@ -1,4 +1,4 @@
-
+Hello............
 Change1 :Bug fix 1 
 
 Change 2: File1 updated for change2 by teammate on master branch
@@ -12,4 +12,6 @@ Change 6:MOdified to test remote repo work
 
 Chnage 7:Edited this file by teammate for checking conflict scenario on remote master using rebase solution
 Change8 :Edited to test for CR2 on remote master
+
+Change8 :Edited on local master
 

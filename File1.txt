@@ -11,4 +11,5 @@ Change5 :Bug fix 2 for branch bug2
 Change 6:MOdified to test remote repo work
 
 Chnage 7:Edited this file by teammate for checking conflict scenario on remote master using rebase solution
+Change8 :Edited to test for CR2 on remote master
 
